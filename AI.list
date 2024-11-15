@@ -13,5 +13,6 @@ DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
 
-DOMAIN-SUFFIX,poe.com
+# remove poe
+# DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,claude.ai
